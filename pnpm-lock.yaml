@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@erutidians/auto-dop': ^1.0.4
+
+dependencies:
+  '@erutidians/auto-dop': 1.1.4
+
+packages:
+
+  /@erutidians/auto-dop/1.1.4:
+    resolution: {integrity: sha512-/rNbtVCWx2C/c5Ivxgx7PE0tLg+mv+4gm8eFCRsn/ppCLHvYHN5CWJTvl1lryXp1ob0hfEPl5knwNNOnO7d/IQ==}
+    dev: false
