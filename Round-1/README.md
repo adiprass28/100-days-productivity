@@ -1,8 +1,8 @@
 # Round 1
 
 | Start Date | End Date |  Status  |
-| :--------: | :------: | :------: |
-| ---------- | -------- | -------- |
+| :----------------------: | :------: | :------: |
+| [November 19](day001.md) | -------- | On-going |
 
 ### Reminders
 
@@ -10,8 +10,10 @@
 
 ### Goals
 
-- [x] Complete something
-- [ ] Complete another thing
+- [ ] Complete Golang Books
+    - [ ] The Go Programming Languge. Donovan, Alan & Brian.
+- [ ] Computer Since Books
+    - [ ] The Elements of Computing Systems, second edition: Building a Modern Computer from First Principles. Noam Nisan
 
 ### Projects List
 
